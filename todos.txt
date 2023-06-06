@@ -1,2 +1,8 @@
 Build a GUI
 Add new To-Do
+Study
+Plant a flower
+Brush my hair
+Fix my bed
+Go for a walk
+Drink coffee
